@@ -77,8 +77,8 @@ const CONFIG = {
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://ruo.morsmusic.org/load/150013013/Soltwine_-_Kudryami_ryzhimi_(musmore.org).mp3", // Music streaming URL
         startText: "🎵 Играй гармошка",        // Button text to start music
-        stopText: "🔇 Заткнись",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        stopText: "🔇 Стоп",         // Button text to stop music
+        volume: 0.3                        // Volume level (0.0 to 1.0)
     }
 };
 
