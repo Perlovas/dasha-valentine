@@ -26,7 +26,7 @@ const CONFIG = {
         },
         second: {
             text: "Сильно меня любишь?)",                          // For the love meter
-            startText: "Вот настолько много",                                   // Text before the percentage
+            startText: "Вот настолько сильно",                                   // Text before the percentage
             nextBtn: "Далее ❤️"                                         // Text for the next button
         },
         third: {
@@ -41,7 +41,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "НУ НИФИГА СЕБЕ ТЫ РАКЕТА БОМБА ПЕТАРДА 🥰🚀💝",  // Shows when they go past 5000%
         high: "Блин, так мило Дашкесс! 🚀💝",              // Shows when they go past 1000%
-        normal: "Может ещё)? 🥰"                           // Shows when they go past 100%
+        normal: "вот это блин да, афигеть! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
